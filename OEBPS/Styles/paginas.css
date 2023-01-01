@@ -1,1 +1,53 @@
+/*Fontes*/
 
+@font-face {
+	font-family: "Laqonic4FUnicase-SemiBold Normal";
+	font-weight: "normal";
+	font-style: "normal";
+	src: url(../Fonts/Laqonic_4F_Unicase_SemiBold.ttf);
+}
+
+@font-face {
+	font-family: "Univers";
+	font-weight: "normal";
+	font-style: "normal";
+	src: url(../Fonts/univers.ttf);
+}
+
+@font-face {
+	font-family: "Roboto Normal";
+	font-weight: "normal";
+	font-style: "normal";
+	src: url(../Fonts/Roboto-Regular.ttf);
+}
+
+/*Texto*/
+
+p.datas {
+	font-family: "Laqonic4FUnicase-SemiBold Normal";
+	font-size: 25px;
+	text-align: left;
+	color: gray;
+}
+
+p.titulos {
+	font-family: "Laqonic4FUnicase-SemiBold Normal";
+	font-size: 40px;
+	margin: 0px;
+	text-align: left;
+}
+
+p.versos {
+	font-family: "Univers";
+	font-size: 17px;
+	text-align: left;
+	margin-bottom: 60px;
+}
+
+p.texto {
+	font-family: "Univers";
+	font-size: 18px;
+ 	text-align: justify;
+	text-indent: 1.5em;
+	margin: 0px;
+}
