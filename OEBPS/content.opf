@@ -1,1 +1,144 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:rights>© Todos os direitos reservados ao Ministério de Mordomia Cristã da Divisão
+Sul-Americana da Igreja Adventista do Sétimo Dia</dc:rights>
+    <dc:description>O desafio da missão continua
+Como responderemos?</dc:description>
+    <dc:language>pt-BR</dc:language>
+    <dc:title>Ide Por Todo o Mundo</dc:title>
+    <dc:creator id="cre">Ministério de Mordomia Cristã</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <dc:publisher>Yuri Possimozer</dc:publisher>
+    <meta property="dcterms:modified">2022-12-31T19:55:14Z</meta>
+    <dc:identifier id="BookId">urn:uuid:6fe05f2a-df8d-4732-ba31-b53d7201ccae</dc:identifier>
+    <meta content="1.9.20" name="Sigil version"/>
+    <meta name="cover" content="cape.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="m0106.xhtml" href="Text/m0106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="paginas.css" href="Styles/paginas.css" media-type="text/css"/>
+    <item id="Laqonic_4F_Unicase_SemiBold.ttf" href="Fonts/Laqonic_4F_Unicase_SemiBold.ttf" media-type="font/ttf"/>
+    <item id="univers.ttf" href="Fonts/univers.ttf" media-type="font/ttf"/>
+    <item id="m0113.xhtml" href="Text/m0113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0120.xhtml" href="Text/m0120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0127.xhtml" href="Text/m0127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0203.xhtml" href="Text/m0203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0210.xhtml" href="Text/m0210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0217.xhtml" href="Text/m0217.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0224.xhtml" href="Text/m0224.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0303.xhtml" href="Text/m0303.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0310.xhtml" href="Text/m0310.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0317.xhtml" href="Text/m0317.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0324.xhtml" href="Text/m0324.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0331.xhtml" href="Text/m0331.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0407.xhtml" href="Text/m0407.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0414.xhtml" href="Text/m0414.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0421.xhtml" href="Text/m0421.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0428.xhtml" href="Text/m0428.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0505.xhtml" href="Text/m0505.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0512.xhtml" href="Text/m0512.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0519.xhtml" href="Text/m0519.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0526.xhtml" href="Text/m0526.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0602.xhtml" href="Text/m0602.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0609.xhtml" href="Text/m0609.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0616.xhtml" href="Text/m0616.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0623.xhtml" href="Text/m0623.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0630.xhtml" href="Text/m0630.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0707.xhtml" href="Text/m0707.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0714.xhtml" href="Text/m0714.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0721.xhtml" href="Text/m0721.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0728.xhtml" href="Text/m0728.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0804.xhtml" href="Text/m0804.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0811.xhtml" href="Text/m0811.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0818.xhtml" href="Text/m0818.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0825.xhtml" href="Text/m0825.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0901.xhtml" href="Text/m0901.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0908.xhtml" href="Text/m0908.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0915.xhtml" href="Text/m0915.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0922.xhtml" href="Text/m0922.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m0929.xhtml" href="Text/m0929.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1006.xhtml" href="Text/m1006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1013.xhtml" href="Text/m1013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1020.xhtml" href="Text/m1020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1027.xhtml" href="Text/m1027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1103.xhtml" href="Text/m1103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1110.xhtml" href="Text/m1110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1117.xhtml" href="Text/m1117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1124.xhtml" href="Text/m1124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1201.xhtml" href="Text/m1201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1208.xhtml" href="Text/m1208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1215.xhtml" href="Text/m1215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="m1222.xhtml" href="Text/m1222.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cape.jpg" href="Images/cape.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="m1229.xhtml" href="Text/m1229.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prefacio.xhtml" href="Text/prefacio.xhtml" media-type="application/xhtml+xml"/>
+    <item id="placeholder.xhtml" href="Text/placeholder.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="ncx/toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="prefacio.xhtml"/>
+    <itemref idref="placeholder.xhtml"/>
+    <itemref idref="m0106.xhtml"/>
+    <itemref idref="m0113.xhtml"/>
+    <itemref idref="m0120.xhtml"/>
+    <itemref idref="m0127.xhtml"/>
+    <itemref idref="m0203.xhtml"/>
+    <itemref idref="m0210.xhtml"/>
+    <itemref idref="m0217.xhtml"/>
+    <itemref idref="m0224.xhtml"/>
+    <itemref idref="m0303.xhtml"/>
+    <itemref idref="m0310.xhtml"/>
+    <itemref idref="m0317.xhtml"/>
+    <itemref idref="m0324.xhtml"/>
+    <itemref idref="m0331.xhtml"/>
+    <itemref idref="m0407.xhtml"/>
+    <itemref idref="m0414.xhtml"/>
+    <itemref idref="m0421.xhtml"/>
+    <itemref idref="m0428.xhtml"/>
+    <itemref idref="m0505.xhtml"/>
+    <itemref idref="m0512.xhtml"/>
+    <itemref idref="m0519.xhtml"/>
+    <itemref idref="m0526.xhtml"/>
+    <itemref idref="m0602.xhtml"/>
+    <itemref idref="m0609.xhtml"/>
+    <itemref idref="m0616.xhtml"/>
+    <itemref idref="m0623.xhtml"/>
+    <itemref idref="m0630.xhtml"/>
+    <itemref idref="m0707.xhtml"/>
+    <itemref idref="m0714.xhtml"/>
+    <itemref idref="m0721.xhtml"/>
+    <itemref idref="m0728.xhtml"/>
+    <itemref idref="m0804.xhtml"/>
+    <itemref idref="m0811.xhtml"/>
+    <itemref idref="m0818.xhtml"/>
+    <itemref idref="m0825.xhtml"/>
+    <itemref idref="m0901.xhtml"/>
+    <itemref idref="m0908.xhtml"/>
+    <itemref idref="m0915.xhtml"/>
+    <itemref idref="m0922.xhtml"/>
+    <itemref idref="m0929.xhtml"/>
+    <itemref idref="m1006.xhtml"/>
+    <itemref idref="m1013.xhtml"/>
+    <itemref idref="m1020.xhtml"/>
+    <itemref idref="m1027.xhtml"/>
+    <itemref idref="m1103.xhtml"/>
+    <itemref idref="m1110.xhtml"/>
+    <itemref idref="m1117.xhtml"/>
+    <itemref idref="m1124.xhtml"/>
+    <itemref idref="m1201.xhtml"/>
+    <itemref idref="m1208.xhtml"/>
+    <itemref idref="m1215.xhtml"/>
+    <itemref idref="m1222.xhtml"/>
+    <itemref idref="m1229.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Capa" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Sumário" href="Text/nav.xhtml"/>
+  </guide>
+</package>
