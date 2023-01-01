@@ -1,1 +1,404 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:6fe05f2a-df8d-4732-ba31-b53d7201ccae" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>Ide Por Todo o Mundo</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>PREFÁCIO</text>
+    </navLabel>
+    <content src="../Text/prefacio.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint2">
+    <navLabel>
+      <text>JANEIRO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>6 DE JANEIRO</text>
+      </navLabel>
+      <content src="../Text/m0106.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>13 DE JANEIRO</text>
+      </navLabel>
+      <content src="../Text/m0113.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>20 DE JANEIRO</text>
+      </navLabel>
+      <content src="../Text/m0120.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>27 DE JANEIRO</text>
+      </navLabel>
+      <content src="../Text/m0127.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint7">
+    <navLabel>
+      <text>FEVEREIRO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>3 DE FEVEREIRO</text>
+      </navLabel>
+      <content src="../Text/m0203.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint9">
+      <navLabel>
+        <text>10 DE FEVEREIRO</text>
+      </navLabel>
+      <content src="../Text/m0210.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint10">
+      <navLabel>
+        <text>17 DE FEVEREIRO</text>
+      </navLabel>
+      <content src="../Text/m0217.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint11">
+      <navLabel>
+        <text>24 DE FEVEREIRO</text>
+      </navLabel>
+      <content src="../Text/m0224.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint12">
+    <navLabel>
+      <text>MARÇO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint13">
+      <navLabel>
+        <text>3 DE MARÇO</text>
+      </navLabel>
+      <content src="../Text/m0303.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint14">
+      <navLabel>
+        <text>10 DE MARÇO</text>
+      </navLabel>
+      <content src="../Text/m0310.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>17 DE MARÇO</text>
+      </navLabel>
+      <content src="../Text/m0317.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint16">
+      <navLabel>
+        <text>24 DE MARÇO</text>
+      </navLabel>
+      <content src="../Text/m0324.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint17">
+      <navLabel>
+        <text>31 DE MARÇO</text>
+      </navLabel>
+      <content src="../Text/m0331.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint18">
+    <navLabel>
+      <text>ABRIL</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint19">
+      <navLabel>
+        <text>7 DE ABRIL</text>
+      </navLabel>
+      <content src="../Text/m0407.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint20">
+      <navLabel>
+        <text>14 DE ABRIL</text>
+      </navLabel>
+      <content src="../Text/m0414.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint21">
+      <navLabel>
+        <text>21 DE ABRIL</text>
+      </navLabel>
+      <content src="../Text/m0421.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint22">
+      <navLabel>
+        <text>28 DE ABRIL</text>
+      </navLabel>
+      <content src="../Text/m0428.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint23">
+    <navLabel>
+      <text>MAIO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint24">
+      <navLabel>
+        <text>05 DE MAIO</text>
+      </navLabel>
+      <content src="../Text/m0505.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint25">
+      <navLabel>
+        <text>12 DE MAIO</text>
+      </navLabel>
+      <content src="../Text/m0512.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint26">
+      <navLabel>
+        <text>19 DE MAIO</text>
+      </navLabel>
+      <content src="../Text/m0519.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint27">
+      <navLabel>
+        <text>26 DE MAIO</text>
+      </navLabel>
+      <content src="../Text/m0526.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint28">
+    <navLabel>
+      <text>JUNHO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint29">
+      <navLabel>
+        <text>2 DE JUNHO</text>
+      </navLabel>
+      <content src="../Text/m0602.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint30">
+      <navLabel>
+        <text>9 DE JUNHO</text>
+      </navLabel>
+      <content src="../Text/m0609.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint31">
+      <navLabel>
+        <text>16 DE JUNHO</text>
+      </navLabel>
+      <content src="../Text/m0616.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint32">
+      <navLabel>
+        <text>23 DE JUNHO</text>
+      </navLabel>
+      <content src="../Text/m0623.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint33">
+      <navLabel>
+        <text>30 DE JUNHO</text>
+      </navLabel>
+      <content src="../Text/m0630.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint34">
+    <navLabel>
+      <text>JULHO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint35">
+      <navLabel>
+        <text>7 DE JULHO</text>
+      </navLabel>
+      <content src="../Text/m0707.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint36">
+      <navLabel>
+        <text>14 DE JULHO</text>
+      </navLabel>
+      <content src="../Text/m0714.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint37">
+      <navLabel>
+        <text>21 DE JULHO</text>
+      </navLabel>
+      <content src="../Text/m0721.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint38">
+      <navLabel>
+        <text>28 DE JULHO</text>
+      </navLabel>
+      <content src="../Text/m0728.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint39">
+    <navLabel>
+      <text>AGOSTO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint40">
+      <navLabel>
+        <text>4 DE AGOSTO</text>
+      </navLabel>
+      <content src="../Text/m0804.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint41">
+      <navLabel>
+        <text>11 DE AGOSTO</text>
+      </navLabel>
+      <content src="../Text/m0811.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint42">
+      <navLabel>
+        <text>18 DE AGOSTO</text>
+      </navLabel>
+      <content src="../Text/m0818.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint43">
+      <navLabel>
+        <text>25 DE AGOSTO</text>
+      </navLabel>
+      <content src="../Text/m0825.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint44">
+    <navLabel>
+      <text>SETEMBRO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint45">
+      <navLabel>
+        <text>1 DE SETEMBRO</text>
+      </navLabel>
+      <content src="../Text/m0901.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint46">
+      <navLabel>
+        <text>8 DE SETEMBRO</text>
+      </navLabel>
+      <content src="../Text/m0908.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint47">
+      <navLabel>
+        <text>15 DE SETEMBRO</text>
+      </navLabel>
+      <content src="../Text/m0915.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint48">
+      <navLabel>
+        <text>22 DE SETEMBRO</text>
+      </navLabel>
+      <content src="../Text/m0922.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint49">
+      <navLabel>
+        <text>29 DE SETEMBRO</text>
+      </navLabel>
+      <content src="../Text/m0929.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint50">
+    <navLabel>
+      <text>OUTUBRO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint51">
+      <navLabel>
+        <text>6 DE OUTUBRO</text>
+      </navLabel>
+      <content src="../Text/m1006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint52">
+      <navLabel>
+        <text>13 DE OUTUBRO</text>
+      </navLabel>
+      <content src="../Text/m1013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint53">
+      <navLabel>
+        <text>20 DE OUTUBRO</text>
+      </navLabel>
+      <content src="../Text/m1020.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint54">
+      <navLabel>
+        <text>27 DE OUTUBRO</text>
+      </navLabel>
+      <content src="../Text/m1027.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint55">
+    <navLabel>
+      <text>NOVEMBRO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint56">
+      <navLabel>
+        <text>3 DE NOVEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1103.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint57">
+      <navLabel>
+        <text>10 DE NOVEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1110.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint58">
+      <navLabel>
+        <text>17 DE NOVEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1117.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint59">
+      <navLabel>
+        <text>24 DE NOVEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1124.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint60">
+    <navLabel>
+      <text>DEZEMBRO</text>
+    </navLabel>
+    <content src="../.." />
+    <navPoint id="navPoint61">
+      <navLabel>
+        <text>1 DE DEZEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1201.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint62">
+      <navLabel>
+        <text>8 DE DEZEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1208.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint63">
+      <navLabel>
+        <text>15 DE DEZEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1215.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint64">
+      <navLabel>
+        <text>22 DE DEZEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1222.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint65">
+      <navLabel>
+        <text>29 DE DEZEMBRO</text>
+      </navLabel>
+      <content src="../Text/m1229.xhtml" />
+    </navPoint>
+  </navPoint>
+</navMap>
+</ncx>
